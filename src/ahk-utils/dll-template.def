@@ -1,0 +1,4 @@
+LIBRARY	"ahk-utils"
+EXPORTS 
+	IsJunction
+	GetJunctionTarget
